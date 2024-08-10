@@ -205,13 +205,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/Karuna-Kh",
   },
   {
     id: 2,
-    img: "/twit.svg",
+    img: "/facebook.svg",
+    link: "https://web.facebook.com/khun.neng.3",
   },
   {
     id: 3,
-    img: "/link.svg",
+    img: "/telegram.svg",
+    link: "https://t.me/KhunNeng",
   },
 ];
