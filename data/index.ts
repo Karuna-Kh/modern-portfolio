@@ -209,12 +209,17 @@ export const socialMedia = [
   },
   {
     id: 2,
-    img: "/facebook.svg",
+    img: "/facebook-142.svg",
     link: "https://web.facebook.com/khun.neng.3",
   },
   {
     id: 3,
-    img: "/telegram.svg",
+    img: "/telegram-142.svg",
     link: "https://t.me/KhunNeng",
+  },
+  {
+    id: 4,
+    img: "/linkedin-142.svg",
+    link: "",
   },
 ];
